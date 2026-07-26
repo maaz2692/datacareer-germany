@@ -1,0 +1,13 @@
+﻿project_column,Kurzname,M_ID,Kürzel,Gemeinden,Kreise
+asking_rent,Angebotsmietpreise,2113,m_mietpr,,2010-2024
+broadband_100mbit,Bandbreitenverfügbarkeit mindestens 100 Mbit/s,13117,a_bb_100Mbits,2017-2023,2017-2023
+employment_rate,Beschäftigtenquote,3101,q_svw,2001-2023,1997-2023
+expert_level_employment,Beschäftigte mit Anforderungsniveau Experte,3207,a_sva_exp,,2013-2023
+gdp_per_capita,Bruttoinlandsprodukt je Einwohner,14205,q_bip_ew,,1992-2022
+it_science_service_employment,Beschäftigte in IT- und naturwissenschaftlichen Dienstleistungsberufen,3409,a_svb_IT,,2013-2023
+knowledge_intensive_industry,Beschäftigte in wissensintensiven Industrien,3408,a_svb_wissen,,2009-2023
+median_income_academic,Medianeinkommen akademischer Berufsabschluss,6009,m_ek_akad,,2014-2023
+population,Bevölkerung gesamt,2,xbev,1995-2023,1995-2023
+population_change_10_years,Bevölkerungsentwicklung (10 Jahre),4217,e10_bev,,2005-2023
+total_migration_balance,Gesamtwanderungssaldo,4301,i_wans,1995-2023,1995-2023
+unemployment_rate,Arbeitslosenquote,1101,q_alo,,1998-2023
