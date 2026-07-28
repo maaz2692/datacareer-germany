@@ -1,5 +1,11 @@
 # DataCareer Germany
 
+## Live Dashboard
+
+Explore the interactive Streamlit dashboard:
+
+[Open DataCareer Germany Dashboard](https://datacareer-germany.streamlit.app/)
+
 ## Where should data professionals live and work in Germany?
 
 DataCareer Germany is an exploratory data analysis and decision-support project that compares Germany’s 16 federal states across career opportunities, income, housing affordability, labour-market strength, digital infrastructure and regional growth.
